@@ -6,7 +6,7 @@
 
 > Venture into the cosmos through my space website—an all-in-one celestial odyssey. Ignited by the SpaceX-API and an array of NASA APIs, it unveils captivating images, videos, and real-time astronaut count. Discover the universe's secrets, learn about celestial marvels, and stay attuned to space news via the Space News API. This platform seamlessly blends learning and exploration, all within a single cosmic panorama.
 
-### 🌐 [Visit Stellar Live](https://stellar-gamma.vercel.app/)
+### 🌐 [Visit Stellar Live](https://stellar-ashen.vercel.app/)
 
 ## ✨ Features
 
